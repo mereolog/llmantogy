@@ -1,0 +1,561 @@
+2023-10-31 11:49:30,603 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:49:30,603 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:49:30,603 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 11:49:30,606 macleod.parsing.parser         WARNING  Attempted to parse non-existent file: (A x)
+2023-10-31 11:51:12,735 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:51:12,735 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:51:12,735 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 11:53:01,812 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:53:01,813 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:53:01,813 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 11:54:08,922 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:54:08,923 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:54:08,923 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 11:55:17,945 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:55:17,945 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:55:17,946 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 11:59:07,832 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:59:07,832 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:59:07,832 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 11:59:24,307 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 11:59:24,307 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 11:59:24,308 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 12:01:19,087 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 12:01:19,087 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 12:01:19,088 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 12:05:59,693 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 12:05:59,693 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 12:05:59,694 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 12:19:24,266 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 12:19:24,266 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 12:19:24,266 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 12:20:33,905 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 12:20:33,906 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 12:20:33,906 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 12:20:42,727 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 12:20:42,727 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 12:20:42,727 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:18:54,529 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:18:54,530 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:18:54,530 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:19:07,045 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:19:07,045 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:19:07,045 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:19:36,543 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:19:36,543 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:19:36,543 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:20:33,992 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:20:33,992 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:20:33,992 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:32:40,738 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:32:40,739 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:32:40,739 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:32:57,607 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:32:57,607 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:32:57,607 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:33:33,116 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:33:33,116 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:33:33,116 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-10-31 14:35:23,378 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-10-31 14:35:23,379 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-10-31 14:35:23,379 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:10:39,207 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:10:39,207 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:10:39,208 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:10:49,023 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:10:49,023 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:10:49,024 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:10:52,291 macleod.scripts.parser         INFO     Called script parse_clif
+2023-11-08 17:44:02,235 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:44:02,236 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:44:02,236 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:45:07,471 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:45:07,471 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:45:07,471 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:46:32,527 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:46:32,527 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:46:32,527 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:46:32,546 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,556 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,567 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,577 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,587 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,597 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,606 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,611 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,618 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,623 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,627 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,633 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,640 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,645 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,650 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,655 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,658 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,663 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,671 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,701 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,704 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,709 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,715 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,720 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,725 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,730 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,736 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,741 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,752 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,767 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,780 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,793 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,805 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,817 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,829 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,833 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,843 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,849 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,855 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,860 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:46:32,866 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,614 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:47:21,615 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:47:21,615 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:47:21,634 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,644 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,654 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,664 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,674 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,685 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,698 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,703 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,710 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,717 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,722 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,728 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,737 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,743 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,747 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,753 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,756 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,762 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,769 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,772 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,776 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,782 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,788 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,794 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,802 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,807 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,813 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,819 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,828 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,838 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,848 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,859 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,869 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,880 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,890 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,894 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,902 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,906 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,911 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,915 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:47:21,920 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,559 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:53:50,560 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:53:50,560 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:53:50,583 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,593 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,604 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,615 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,626 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,637 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,650 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,654 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,662 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,668 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,674 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,679 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,687 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,692 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,696 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,701 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,704 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,709 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,714 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,718 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,722 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,729 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,734 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,741 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,748 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,754 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,761 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,767 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,777 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,791 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,804 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,819 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,833 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,849 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,859 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,862 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,870 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,878 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,881 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,884 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:53:50,887 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:12,296 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:54:12,296 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:54:12,296 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:54:15,229 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,268 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,305 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,341 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,379 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,415 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,449 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,462 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,484 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,501 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,516 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,531 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,555 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,567 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,577 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,592 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,600 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,617 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,632 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,641 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,650 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,668 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,688 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,708 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,727 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,753 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,772 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,792 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,830 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,868 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,909 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,947 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:15,987 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,026 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,063 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,070 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,099 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,107 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,119 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,133 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:16,147 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,716 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:54:19,716 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:54:19,716 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:54:19,760 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,790 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,819 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,846 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,873 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,900 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,929 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,938 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,956 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,969 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,981 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:19,994 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,017 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,026 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,036 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,049 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,056 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,067 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,081 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,087 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,093 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,107 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,123 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,142 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,170 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,188 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,207 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,226 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,260 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,290 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,318 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,350 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,383 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,418 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,453 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,460 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,483 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,490 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,499 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,508 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:54:20,518 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,166 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:55:19,167 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:55:19,167 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:55:19,185 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,195 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,205 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,213 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,222 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,231 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,241 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,245 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,251 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,257 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,264 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,271 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,280 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,284 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,288 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,294 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,298 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,302 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,307 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,311 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,314 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,320 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,325 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,330 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,336 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,341 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,346 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,350 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,358 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,366 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,373 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,381 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,391 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,401 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,411 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,414 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,422 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,426 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,429 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,434 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:19,439 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:55:39,737 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:55:39,737 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:55:39,737 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:56:26,771 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:56:26,771 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:56:26,772 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:56:26,792 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,803 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,816 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,828 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,839 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,850 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,865 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,873 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,886 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,900 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,911 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,930 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,972 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,978 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,982 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,987 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,991 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:26,996 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,003 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,007 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,012 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,024 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,031 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,037 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,043 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,049 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,055 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,063 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,077 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,087 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,100 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,112 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,127 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,137 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,147 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,150 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,157 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,162 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,167 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,174 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:56:27,179 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:16,978 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 17:58:16,978 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 17:58:16,978 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 17:58:16,997 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,008 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,018 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,028 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,038 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,049 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,059 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,065 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,072 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,078 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,083 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,089 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,096 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,102 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,106 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,112 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,116 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,120 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,126 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,129 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,133 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,139 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,144 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,151 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,156 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,162 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,169 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,175 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,184 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,194 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,207 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,217 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,227 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,238 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,248 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,253 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,260 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,265 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,269 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,274 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 17:58:17,278 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,432 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 18:01:29,432 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 18:01:29,432 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 18:01:29,450 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,461 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,472 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,482 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,493 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,504 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,514 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,519 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,529 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,538 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,543 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,550 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,558 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,562 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,565 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,570 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,574 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,578 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,584 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,588 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,592 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,598 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,604 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,610 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,616 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,622 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,628 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,634 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,644 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,656 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,666 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,677 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,687 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,698 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,709 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,713 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,730 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,733 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,737 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,742 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:29,746 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,644 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 18:01:52,644 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 18:01:52,644 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 18:01:52,661 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,673 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,683 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,693 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,703 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,713 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,723 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,727 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,734 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,741 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,746 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,751 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,761 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,765 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,771 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,777 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,780 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,785 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,791 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,794 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,797 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,803 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,809 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,814 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,820 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,826 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,831 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,836 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,845 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,853 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,862 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,873 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,883 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,893 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,904 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,907 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,915 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,919 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,923 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,927 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:01:52,932 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:24,950 macleod.Filemgt                INFO     Config file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/macleod_mac.conf
+2023-11-08 18:02:24,950 macleod.Filemgt                INFO     Logging configuration file read: /Users/pawel.garbacz/Documents/python/env/llm-iser/lib/python3.11/site-packages/macleod/conf/logging.conf
+2023-11-08 18:02:24,950 macleod.Filemgt                DEBUG    Started logging with MacleodConfigParser
+2023-11-08 18:02:24,965 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:24,975 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:24,985 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:24,994 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,005 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,015 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,026 macleod.Ontology               INFO     Found 41 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,031 macleod.Ontology               INFO     Found 19 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,037 macleod.Ontology               INFO     Found 64 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,044 macleod.Ontology               INFO     Found 34 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,049 macleod.Ontology               INFO     Found 29 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,053 macleod.Ontology               INFO     Found 42 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,061 macleod.Ontology               INFO     Found 69 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,066 macleod.Ontology               INFO     Found 15 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,069 macleod.Ontology               INFO     Found 13 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,074 macleod.Ontology               INFO     Found 12 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,077 macleod.Ontology               INFO     Found 10 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,082 macleod.Ontology               INFO     Found 20 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,087 macleod.Ontology               INFO     Found 26 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,091 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,095 macleod.Ontology               INFO     Found 8 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,100 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,108 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,115 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,122 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,128 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,134 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,140 macleod.Ontology               INFO     Found 21 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,149 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,161 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,173 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,184 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,194 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,204 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,215 macleod.Ontology               INFO     Found 31 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,219 macleod.Ontology               INFO     Found 5 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,228 macleod.Ontology               INFO     Found 25 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,231 macleod.Ontology               INFO     Found 2 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,235 macleod.Ontology               INFO     Found 4 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,241 macleod.Ontology               INFO     Found 14 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
+2023-11-08 18:02:25,245 macleod.Ontology               INFO     Found 16 total statements in /Users/pawel.garbacz/Documents/makolab/python/projects/llm-iser/midputs/temp.clif
