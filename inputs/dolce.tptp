@@ -1,0 +1,131 @@
+fof(sos,axiom,! [X0] : ((ab(X0) | (ed(X0) | (pd(X0) | q(X0)))) <=> pt(X0))).
+fof(sos,axiom,! [X1] : ((as(X1) | (nped(X1) | ped(X1))) <=> ed(X1))).
+fof(sos,axiom,! [X2] : ((pro(X2) | st(X2)) <=> stv(X2))).
+fof(sos,axiom,! [X3] : ((ev(X3) | stv(X3)) <=> pd(X3))).
+fof(sos,axiom,! [X4] : ((aq(X4) | (pq(X4) | tq(X4))) <=> q(X4))).
+fof(sos,axiom,! [X5] : ((acc(X5) | ach(X5)) <=> ev(X5))).
+fof(sos,axiom,! [X6] : ((apo(X6) | napo(X6)) <=> pob(X6))).
+fof(sos,axiom,! [X7] : ((sag(X7) | sc(X7)) <=> aso(X7))).
+fof(sos,axiom,! [X8] : ((aso(X8) | naso(X8)) <=> sob(X8))).
+fof(sos,axiom,! [X9] : (c(X9) => naso(X9))).
+fof(sos,axiom,! [X10] : (arc(X10) => c(X10))).
+fof(sos,axiom,! [X11] : ((sob(X11) | mob(X11)) <=> npob(X11))).
+fof(sos,axiom,! [X12] : ((ar(X12) | (pr(X12) | tr(X12))) <=> r(X12))).
+fof(sos,axiom,! [X13] : (r(X13) => ab(X13))).
+fof(sos,axiom,! [X14] : ((f(X14) | (m(X14) | pob(X14))) <=> ped(X14))).
+fof(sos,axiom,! [X15] : (npob(X15) => nped(X15))).
+fof(sos,axiom,! [X16] : (s(X16) => pr(X16))).
+fof(sos,axiom,! [X17] : (sl(X17) => pq(X17))).
+fof(sos,axiom,! [X18] : (t(X18) => tr(X18))).
+fof(sos,axiom,! [X19] : (tl(X19) => tq(X19))).
+fof(sos,axiom,~ (? [X20] : (ab(X20) & ed(X20)))).
+fof(sos,axiom,~ (? [X21] : (ab(X21) & pd(X21)))).
+fof(sos,axiom,~ (? [X22] : (ab(X22) & q(X22)))).
+fof(sos,axiom,~ (? [X23] : (ed(X23) & pd(X23)))).
+fof(sos,axiom,~ (? [X24] : (pd(X24) & q(X24)))).
+fof(sos,axiom,~ (? [X25] : (ed(X25) & q(X25)))).
+fof(sos,axiom,~ (? [X26] : (ped(X26) & nped(X26)))).
+fof(sos,axiom,~ (? [X27] : (ped(X27) & as(X27)))).
+fof(sos,axiom,~ (? [X28] : (nped(X28) & as(X28)))).
+fof(sos,axiom,~ (? [X29] : (m(X29) & f(X29)))).
+fof(sos,axiom,~ (? [X30] : (f(X30) & pob(X30)))).
+fof(sos,axiom,~ (? [X31] : (m(X31) & pob(X31)))).
+fof(sos,axiom,~ (? [X32] : (mob(X32) & sob(X32)))).
+fof(sos,axiom,~ (? [X33] : (aso(X33) & naso(X33)))).
+fof(sos,axiom,~ (? [X34] : (sag(X34) & sc(X34)))).
+fof(sos,axiom,~ (? [X35] : (apo(X35) & napo(X35)))).
+fof(sos,axiom,~ (? [X36] : (ev(X36) & stv(X36)))).
+fof(sos,axiom,~ (? [X37] : (ach(X37) & acc(X37)))).
+fof(sos,axiom,~ (? [X38] : (st(X38) & pro(X38)))).
+fof(sos,axiom,~ (? [X39] : (tq(X39) & pq(X39)))).
+fof(sos,axiom,~ (? [X40] : (pq(X40) & aq(X40)))).
+fof(sos,axiom,~ (? [X41] : (tq(X41) & aq(X41)))).
+fof(sos,axiom,~ (? [X42] : (tr(X42) & pr(X42)))).
+fof(sos,axiom,~ (? [X43] : (pr(X43) & ar(X43)))).
+fof(sos,axiom,~ (? [X44] : (tr(X44) & ar(X44)))).
+fof(sos,axiom,! [X45] : ! [X46] : (p(X45,X46) => ((ab(X45) | pd(X45)) & (ab(X46) | pd(X46))))).
+fof(sos,axiom,! [X47] : ! [X48] : (p(X47,X48) => (pd(X47) <=> pd(X48)))).
+fof(sos,axiom,! [X49] : ! [X50] : (p(X49,X50) => (ab(X49) <=> ab(X50)))).
+fof(sos,axiom,! [X51] : ! [X52] : (p(X51,X52) => (t(X51) <=> t(X52)))).
+fof(sos,axiom,! [X53] : ! [X54] : (p(X53,X54) => (s(X53) <=> s(X54)))).
+fof(sos,axiom,! [X55] : ! [X56] : (p(X55,X56) => (ar(X55) <=> ar(X56)))).
+fof(sos,axiom,! [X57] : ((ab(X57) | pd(X57)) => p(X57,X57))).
+fof(sos,axiom,! [X58] : ! [X59] : ((p(X58,X59) & p(X59,X58)) => X58 = X59)).
+fof(sos,axiom,! [X60] : ! [X61] : ! [X62] : ((p(X60,X61) & p(X61,X62)) => p(X60,X62))).
+fof(sos,axiom,! [X63] : ! [X64] : (pp(X63,X64) <=> (p(X63,X64) & ~ p(X64,X63)))).
+fof(sos,axiom,! [X65] : ! [X66] : (ov(X65,X66) <=> ? [X67] : (p(X67,X65) & p(X67,X66)))).
+fof(sos,axiom,! [X68] : (at(X68) <=> ((pd(X68) | ab(X68)) & ~ (? [X69] : pp(X69,X68))))).
+fof(sos,axiom,! [X70] : ! [X71] : (atp(X70,X71) <=> (p(X70,X71) & at(X70)))).
+fof(sos,axiom,! [X72] : ! [X73] : ! [X74] : (sum(X74,X72,X73) <=> (((ab(X74) & (ab(X72) & ab(X73))) | (pd(X74) & (pd(X72) & pd(X73)))) & ! [X75] : (ov(X75,X74) <=> (ov(X75,X72) | ov(X75,X73)))))).
+fof(sos,axiom,! [X76] : ! [X77] : ! [X78] : (dif(X78,X76,X77) <=> (((ab(X78) & (ab(X76) & ab(X77))) | (pd(X78) & (pd(X76) & pd(X77)))) & ! [X79] : (p(X79,X78) <=> (p(X79,X76) & ~ ov(X79,X77)))))).
+fof(sos,axiom,! [X80] : ! [X81] : ((ab(X80) & (ab(X81) & ~ p(X80,X81))) => ? [X82] : dif(X82,X80,X81))).
+fof(sos,axiom,! [X83] : ! [X84] : ((pd(X83) & (pd(X84) & ~ p(X83,X84))) => ? [X85] : dif(X85,X83,X84))).
+fof(sos,axiom,! [X86] : ! [X87] : (pre(X86,X87) => ((ed(X86) | (pd(X86) | q(X86))) & t(X87)))).
+fof(sos,axiom,! [X88] : ! [X89] : ! [X90] : ((pre(X88,X89) & p(X90,X89)) => pre(X88,X90))).
+fof(sos,axiom,! [X91] : ! [X92] : ! [X93] : (tp(X91,X92,X93) => (ed(X91) & (ed(X92) & t(X93))))).
+fof(sos,axiom,! [X94] : ! [X95] : ! [X96] : (tp(X94,X95,X96) => (ped(X94) <=> ped(X95)))).
+fof(sos,axiom,! [X97] : ! [X98] : ! [X99] : (tp(X97,X98,X99) => (nped(X97) <=> nped(X98)))).
+fof(sos,axiom,! [X100] : ! [X101] : ! [X102] : ! [X103] : ((tp(X100,X101,X103) & tp(X101,X102,X103)) => tp(X100,X102,X103))).
+fof(sos,axiom,! [X104] : ! [X105] : ! [X106] : (tov(X104,X105,X106) <=> ? [X107] : (tp(X107,X104,X106) & tp(X107,X105,X106)))).
+fof(sos,axiom,! [X108] : ! [X109] : ! [X110] : (tpp(X108,X109,X110) <=> (tp(X108,X109,X110) & ~ tp(X109,X108,X110)))).
+fof(sos,axiom,! [X111] : ! [X112] : (tat(X111,X112) <=> (ed(X111) & (t(X112) & ~ (? [X113] : tpp(X113,X111,X112)))))).
+fof(sos,axiom,! [X114] : ! [X115] : ! [X116] : (tatp(X114,X115,X116) <=> (tp(X114,X115,X116) & tat(X114,X116)))).
+fof(sos,axiom,! [X117] : ! [X118] : ! [X119] : (tsum(X119,X117,X118) <=> (((ped(X119) & (ped(X117) & ped(X118))) | (nped(X119) & (nped(X117) & nped(X118)))) & ! [X120] : ! [X121] : (tov(X120,X119,X121) <=> (tov(X120,X117,X121) | tov(X120,X118,X121)))))).
+fof(sos,axiom,! [X122] : ! [X123] : ((ed(X122) & pre(X122,X123)) => tp(X122,X122,X123))).
+fof(sos,axiom,! [X124] : ! [X125] : ! [X126] : (tp(X124,X125,X126) => (pre(X124,X126) & pre(X125,X126)))).
+fof(sos,axiom,! [X127] : ! [X128] : ! [X129] : (tp(X127,X128,X129) => ! [X130] : (p(X130,X129) => tp(X127,X128,X130)))).
+fof(sos,axiom,! [X131] : ! [X132] : (temporalPart(X131,X132) <=> (pd(X131) & (pd(X132) & (p(X131,X132) & ! [X133] : ((pd(X133) & (p(X133,X132) & ! [X134] : (pre(X133,X134) => pre(X131,X134)))) => p(X133,X131))))))).
+fof(sos,axiom,! [X135] : ! [X136] : ! [X137] : (k(X135,X136,X137) => ((ed(X135) | pd(X135)) & ((ed(X136) | pd(X136)) & t(X137))))).
+fof(sos,axiom,! [X138] : ! [X139] : ! [X140] : (k(X138,X139,X140) => (ped(X138) <=> ped(X139)))).
+fof(sos,axiom,! [X141] : ! [X142] : ! [X143] : (k(X141,X142,X143) => (nped(X141) <=> nped(X142)))).
+fof(sos,axiom,! [X144] : ! [X145] : ! [X146] : (k(X144,X145,X146) => (pd(X144) <=> pd(X145)))).
+fof(sos,axiom,! [X147] : ! [X148] : ! [X149] : (k(X147,X148,X149) => ~ k(X148,X147,X149))).
+fof(sos,axiom,! [X150] : ! [X151] : ! [X152] : ! [X153] : ((k(X150,X151,X153) & k(X151,X152,X153)) => k(X150,X152,X153))).
+fof(sos,axiom,! [X154] : ! [X155] : ! [X156] : (k(X154,X155,X156) => (pre(X154,X156) & pre(X155,X156)))).
+fof(sos,axiom,! [X157] : ! [X158] : ! [X159] : (k(X157,X158,X159) => ! [X160] : (p(X160,X159) => k(X157,X158,X160)))).
+fof(sos,axiom,! [X161] : ! [X162] : ! [X163] : (pc(X161,X162,X163) => (ed(X161) & (pd(X162) & t(X163))))).
+fof(sos,axiom,! [X164] : ! [X165] : ((pd(X164) & pre(X164,X165)) => ? [X166] : pc(X166,X164,X165))).
+fof(sos,axiom,! [X167] : (ed(X167) => ? [X168] : ? [X169] : pc(X167,X168,X169))).
+fof(sos,axiom,! [X170] : ! [X171] : ! [X172] : (pc(X170,X171,X172) => (pre(X170,X172) & pre(X171,X172)))).
+fof(sos,axiom,! [X173] : ! [X174] : ! [X175] : (pc(X173,X174,X175) => ! [X176] : (p(X176,X175) => pc(X173,X174,X176)))).
+fof(sos,axiom,! [X177] : ! [X178] : (dqt(X177,X178) => (q(X177) & (ed(X178) | pd(X178))))).
+fof(sos,axiom,! [X179] : ! [X180] : (dqt(X179,X180) => (tq(X179) <=> pd(X180)))).
+fof(sos,axiom,! [X181] : ! [X182] : (dqt(X181,X182) => (pq(X181) <=> ped(X182)))).
+fof(sos,axiom,! [X183] : ! [X184] : (dqt(X183,X184) => (aq(X183) <=> nped(X184)))).
+fof(sos,axiom,! [X185] : ! [X186] : ! [X187] : ((dqt(X185,X186) & dqt(X185,X187)) => X186 = X187)).
+fof(sos,axiom,! [X188] : ! [X189] : ! [X190] : ((dqt(X188,X190) & (dqt(X189,X190) & (tl(X188) & tl(X189)))) => X188 = X189)).
+fof(sos,axiom,! [X191] : ! [X192] : ! [X193] : ((dqt(X191,X193) & (dqt(X192,X193) & (sl(X191) & sl(X192)))) => X191 = X192)).
+fof(sos,axiom,! [X194] : (tq(X194) => ? [X195] : (dqt(X194,X195) & pd(X195)))).
+fof(sos,axiom,! [X196] : (pq(X196) => ? [X197] : (dqt(X196,X197) & ped(X197)))).
+fof(sos,axiom,! [X198] : (aq(X198) => ? [X199] : (dqt(X198,X199) & nped(X199)))).
+fof(sos,axiom,! [X200] : (pd(X200) => ? [X201] : (dqt(X201,X200) & tl(X201)))).
+fof(sos,axiom,! [X202] : (ped(X202) => ? [X203] : (dqt(X203,X202) & sl(X203)))).
+fof(sos,axiom,! [X204] : (nped(X204) => ? [X205] : (dqt(X205,X204) & aq(X205)))).
+fof(sos,axiom,! [X206] : ! [X207] : (ql(X206,X207) => (tr(X206) & tq(X207)))).
+fof(sos,axiom,! [X208] : ! [X209] : ((ql(X208,X209) & tl(X209)) => t(X208))).
+fof(sos,axiom,! [X210] : ! [X211] : ! [X212] : ((ql(X210,X211) & ql(X212,X211)) => X210 = X212)).
+fof(sos,axiom,! [X213] : (tq(X213) => ? [X214] : ql(X214,X213))).
+fof(sos,axiom,! [X215] : ! [X216] : ! [X217] : (tql(X215,X216,X217) => ((pr(X215) | ar(X215)) & ((pq(X216) | aq(X216)) & t(X217))))).
+fof(sos,axiom,! [X218] : ! [X219] : ! [X220] : (tql(X218,X219,X220) => (pr(X218) <=> pq(X219)))).
+fof(sos,axiom,! [X221] : ! [X222] : ! [X223] : (tql(X221,X222,X223) => (ar(X221) <=> aq(X222)))).
+fof(sos,axiom,! [X224] : ! [X225] : ! [X226] : ((tql(X224,X225,X226) & sl(X225)) => s(X224))).
+fof(sos,axiom,! [X227] : ! [X228] : (((pq(X227) | aq(X227)) & pre(X227,X228)) => ? [X229] : tql(X229,X227,X228))).
+fof(sos,axiom,! [X230] : ! [X231] : ! [X232] : (tql(X230,X231,X232) => pre(X231,X232))).
+fof(sos,axiom,! [X233] : ! [X234] : ! [X235] : (tql(X233,X234,X235) => ! [X236] : (p(X236,X235) => tql(X233,X234,X236)))).
+fof(sos,axiom,! [X237] : ! [X238] : (sd(X237,X238) <=> (? [X239] : pre(X237,X239) & ! [X240] : (pre(X237,X240) => pre(X238,X240))))).
+fof(sos,axiom,! [X241] : ! [X242] : ! [X243] : (cf(X241,X242,X243) => (ed(X241) & (c(X242) & t(X243))))).
+fof(sos,axiom,! [X244] : ! [X245] : ! [X246] : (cf(X244,X245,X246) => pre(X244,X246))).
+fof(sos,axiom,! [X247] : ! [X248] : ! [X249] : (cf(X247,X248,X249) => ~ cf(X248,X247,X249))).
+fof(sos,axiom,! [X250] : ! [X251] : ! [X252] : ! [X253] : ((cf(X251,X252,X253) & cf(X252,X250,X253)) => ~ cf(X251,X250,X253))).
+fof(sos,axiom,! [X254] : (arc(X254) <=> (c(X254) & ! [X255] : ! [X256] : (cf(X255,X254,X256) => ? [X257] : (pre(X255,X257) & ~ cf(X255,X254,X257)))))).
+fof(sos,axiom,! [X258] : (ds(X258) => naso(X258))).
+fof(sos,axiom,~ (? [X259] : (ds(X259) & c(X259)))).
+fof(sos,axiom,! [X260] : ! [X261] : (us(X260,X261) => (c(X260) & ds(X261)))).
+fof(sos,axiom,! [X262] : ! [X263] : (df(X262,X263) => us(X262,X263))).
+fof(sos,axiom,! [X264] : (c(X264) => ? [X265] : df(X264,X265))).
+fof(sos,axiom,! [X266] : (ds(X266) => ? [X267] : us(X267,X266))).
+fof(sos,axiom,! [X268] : ! [X269] : ! [X270] : ((df(X268,X269) & df(X268,X270)) => X269 = X270)).
+fof(sos,axiom,! [X271] : ! [X272] : ! [X273] : (us(X271,X272) => (pre(X272,X273) => pre(X271,X273)))).
+fof(sos,axiom,! [X274] : ! [X275] : ! [X276] : (df(X274,X275) => (pre(X274,X276) => pre(X275,X276)))).
+fof(sos,axiom,! [X277] : (fd(X277) <=> ? [X278] : ? [X279] : (df(X277,X279) & (us(X278,X279) & ! [X280] : ! [X281] : (cf(X280,X277,X281) => ? [X282] : (cf(X282,X278,X281) & (~ tp(X280,X282,X281) & ~ tp(X282,X280,X281)))))))).
+fof(sos,axiom,! [X283] : (rl(X283) <=> (arc(X283) & fd(X283)))).
