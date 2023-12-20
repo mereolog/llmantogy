@@ -47,6 +47,14 @@ class Symbol:
         text = text.replace('\n', '')
         text = text.replace('\t', '')
         text = re.sub(r'[^\x00-\x7F]+', '_', text)
+        if text[0] == '<=':
+            text = 'leq' + text[1:]
+        if text[0] == '>=':
+            text = 'geq' + text[1:]
+        if text[0] == '<':
+            text = 'le' + text[1:]
+        if text[0] == '>':
+            text = 'ge' + text[1:]
         if not text[0].isalpha():
             text = 's' + text
         return text

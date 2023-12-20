@@ -22,7 +22,7 @@ def __check_puzzles_consistency(
         tptp_puzzles = json.load(fp=tptp_puzzles_file)
     for puzzle, tptp_axioms in tqdm(tptp_puzzles.items()):
         with open(file=temp_file_path, mode='w') as temp_tptp_file:
-            temp_tptp_file.write('\n'.join(tptp_axioms) + '\n' + external_theory)
+            temp_tptp_file.write(tptp_axioms + '\n' + external_theory)
         theory_is_consistent = decide_whether_theory_is_consistent(theory_file_name=temp_file_path)
         if theory_is_consistent == ProverResult.CONSISTENT:
             consistent_puzzles[puzzle] = tptp_axioms
