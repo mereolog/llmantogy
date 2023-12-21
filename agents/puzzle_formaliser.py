@@ -8,7 +8,7 @@ from requests import Timeout
 from tqdm import tqdm
 
 from common import MODEL, backoff_handler
-from inputs.puzzle_patterns import SAMPLE_FORMALISATIONS
+from inputs.examples import SAMPLE_FORMALISATIONS
 
 PUZZLES_REGULAR_EXPRESSIONS = re.compile(pattern='(\d\.\s+)"([^"]+)"(.+)')
 
@@ -32,7 +32,7 @@ def __get_response(query: str) -> str:
     
     return response.choices[0].message.content
 
-def formalise_puzzles(puzzles_file_path: str, formalisations_file_path: str):
+def formalise_texts(puzzles_file_path: str, formalisations_file_path: str):
     formalisations = dict()
     with open(file=puzzles_file_path) as samples_file:
         samples = json.load(fp=samples_file)

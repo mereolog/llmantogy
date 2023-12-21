@@ -6,7 +6,7 @@ from agents.helpers.macleod_parser import parse_clif
 
 TEMP_FILE_PATH = 'midputs/temp.clif'
 
-def verify_formalised_puzzles(
+def verify_formalised_texts(
         formalised_puzzles_file_path: str,
         faulty_formalised_puzzles_file_path: str,
         verified_formalised_puzzles_file_path: str,

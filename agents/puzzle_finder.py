@@ -7,7 +7,7 @@ from requests import Timeout
 from tqdm import tqdm
 
 from common import MODEL, backoff_handler
-from inputs.puzzle_patterns import SAMPLE_FORMALISATIONS
+from inputs.examples import SAMPLE_FORMALISATIONS
 
 
 @backoff.on_exception(backoff.expo, RateLimitError, on_backoff=backoff_handler, max_tries=8)
@@ -25,7 +25,7 @@ def __get_response(query: str) -> str:
     return response['choices'][0]['message']['content']
 
 
-def find_puzzles(puzzles_file_path: str):
+def find_similar_texts(puzzles_file_path: str):
     puzzles = dict()
     for sample in tqdm(SAMPLE_FORMALISATIONS.keys()):
         prompt = \

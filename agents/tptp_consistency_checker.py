@@ -39,7 +39,7 @@ def __check_puzzles_consistency(
         json.dump(obj=undecided_puzzles, fp=verified_tptp_json_file, indent=4)
 
 
-def check_puzzles_internal_consistency(
+def check_texts_internal_consistency(
         tptp_puzzles_file_path: str,
         consistent_tptp_puzzles_file_path: str,
         inconsistent_tptp_puzzles_file_path: str,
@@ -53,7 +53,7 @@ def check_puzzles_internal_consistency(
     
         
 
-def check_puzzles_external_consistency(
+def check_texts_external_consistency(
         tptp_puzzles_file_path: str,
         external_theory_file_path: str,
         consistent_tptp_puzzles_file_path: str,
