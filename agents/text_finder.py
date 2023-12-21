@@ -25,14 +25,14 @@ def __get_response(query: str) -> str:
     return response['choices'][0]['message']['content']
 
 
-def find_similar_texts(puzzles_file_path: str):
-    puzzles = dict()
+def find_similar_texts(texts_file_path: str):
+    texts = dict()
     for sample in tqdm(SAMPLE_FORMALISATIONS.keys()):
         prompt = \
             'In philosophical papers and books find 7 fragments that are most similar to the text below. Answer with the actual quotes from philosophy and not with their interpretations.\nText:' + \
             sample
         response = __get_response(query=prompt)
-        puzzles[sample] = response
-    with open(file=puzzles_file_path, mode='w') as puzzles_file:
-        json.dump(obj=puzzles, indent=4, fp=puzzles_file)
+        texts[sample] = response
+    with open(file=texts_file_path, mode='w') as texts_file:
+        json.dump(obj=texts, indent=4, fp=texts_file)
 
