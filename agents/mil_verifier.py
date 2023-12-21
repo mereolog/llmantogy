@@ -46,12 +46,26 @@ def __reject_button_action():
 
 def semantically_verify_consistent_translations(
         clif_syntactically_verified_texts_file_path: str,
-        tptp_consistent_texts_file_path: str):
+        tptp_consistent_texts_file_path: str,
+        clif_semantically_accepted_texts_file_path: str,
+        clif_semantically_rejected_texts_file_path: str):
     with open(file=clif_syntactically_verified_texts_file_path) as clif_syntactically_verified_texts_file:
         clif_syntactically_verified_texts = json.load(fp=clif_syntactically_verified_texts_file)
     with open(file=tptp_consistent_texts_file_path) as tptp_consistent_texts_file:
         tptp_consistent_texts = json.load(fp=tptp_consistent_texts_file)
+        
     for english_text, clif_text in clif_syntactically_verified_texts.items():
         if english_text in tptp_consistent_texts:
             __process_texts(english_text=english_text, clif_text=clif_text)
+    clif_semantically_accepted_texts = dict()
+    for accepted_text in accepted_texts:
+        clif_semantically_accepted_texts[accepted_text] = clif_syntactically_verified_texts[accepted_text]
+    clif_semantically_rejected_texts = dict()
+    for rejected_text in rejected_texts:
+        clif_semantically_rejected_texts[rejected_text] = clif_syntactically_verified_texts[rejected_text]
+        
+    with open(file=clif_semantically_accepted_texts_file_path, mode='w') as clif_semantically_accepted_texts_file:
+        json.dump(obj=clif_semantically_accepted_texts, fp=clif_semantically_accepted_texts_file, indent=4)
+    with open(file=clif_semantically_rejected_texts_file_path, mode='w') as clif_semantically_rejected_texts_file:
+        json.dump(obj=clif_semantically_rejected_texts, fp=clif_semantically_rejected_texts_file, indent=4)
             

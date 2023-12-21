@@ -31,4 +31,6 @@ from agents.tptp_consistency_checker import check_puzzles_internal_consistency, 
 
 semantically_verify_consistent_translations(
     clif_syntactically_verified_texts_file_path='midputs/verified_formalised_puzzles.json',
-    tptp_consistent_texts_file_path='outputs/dolce_consistent_puzzles_tptp.json')
+    tptp_consistent_texts_file_path='outputs/dolce_consistent_puzzles_tptp.json',
+    clif_semantically_accepted_texts_file_path='outputs/semantically_accepted_puzzles.json',
+    clif_semantically_rejected_texts_file_path='outputs/semantically_rejected_puzzles.json')
