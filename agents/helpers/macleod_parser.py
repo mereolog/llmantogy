@@ -1,6 +1,5 @@
 import logging
 import re
-import sys
 
 import ply.lex as lex
 import ply.yacc as yacc
@@ -13,7 +12,6 @@ from fol_logic.objects.implication import Implication
 from fol_logic.objects.negation import Negation
 from fol_logic.objects.predicate import Predicate
 from fol_logic.objects.quantifying_formula import QuantifyingFormula, Quantifier
-from fol_logic.objects.symbol import Symbol
 from fol_logic.objects.term import Term
 
 LOGGER = logging.getLogger(__name__)

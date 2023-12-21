@@ -2,7 +2,6 @@ import json
 import re
 
 import backoff
-import openai
 from openai import RateLimitError, APIError, OpenAI
 from requests import Timeout
 from tqdm import tqdm

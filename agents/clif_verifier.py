@@ -1,7 +1,5 @@
 import json
 
-from macleod.logical.axiom import Axiom
-
 from agents.helpers.macleod_parser import parse_clif
 
 TEMP_FILE_PATH = 'midputs/temp.clif'
