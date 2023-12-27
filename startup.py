@@ -1,11 +1,16 @@
 from agents.clif_verifier import verify_formalised_texts
 from agents.mil_verifier import semantically_verify_consistent_translations
+from agents.similarity_calculator import calculate_similarity
 from agents.text_finder import find_similar_texts
 from agents.text_formaliser import formalise_texts
 from agents.tptp_consistency_checker import check_texts_internal_consistency, check_texts_external_consistency
 
 find_similar_texts(
     texts_file_path='midputs/texts.json')
+
+calculate_similarity(
+    texts_file_path='../midputs/texts.json',
+    similarity_file_path='../outputs/texts_similarities.json')
 
 formalise_texts(
     english_texts_file_path='midputs/texts.json',
