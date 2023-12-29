@@ -1,3 +1,6 @@
+# This code is an adaptation of https://github.com/thahmann/macleod/
+
+
 import logging
 import re
 
