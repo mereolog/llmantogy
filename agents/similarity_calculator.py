@@ -40,10 +40,4 @@ def __calculate_similarity_between_base_text_and_texts(text_to_texts_similaritie
         text_to_texts_similarities[(base_text, text).__str__()] = base_to_text_similarity
     average_similarity = average_similarity / len(texts)
     return average_similarity
-        
-
-calculate_similarity(
-    texts_file_path='../midputs/texts.json',
-    similarity_file_path='../outputs/texts_similarities.json')
     
-        
