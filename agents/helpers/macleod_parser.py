@@ -216,6 +216,7 @@ def p_implication(p):
     
     p[0] = Implication([p[3], p[4]])
 
+
 def p_implication_error(p):
     """
     implication : LPAREN IF error
@@ -233,7 +234,7 @@ def p_biconditional(p):
     biconditional : LPAREN IFF axiom axiom RPAREN
     """
     
-    if (len(p) == 7):
+    if len(p) == 7:
         p[0] = Equivalence([p[4], p[5]])
     else:
         p[0] = Equivalence([p[3], p[4]])
@@ -288,7 +289,6 @@ def p_universal_error(p):
     """
     
     raise ParseError("Error parsing term in Universal")
-
 
 
 def p_predicate(p):

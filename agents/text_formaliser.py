@@ -26,7 +26,7 @@ def __get_response(query: str) -> str:
             {"role": "user", "content": query},
         ],
         temperature=0.0,
-        max_tokens = 2048
+        max_tokens=2048
     )
     
     return response.choices[0].message.content
@@ -57,6 +57,6 @@ def formalise_texts(english_texts_file_path: str, formalisations_file_path: str)
             formalisations[text] = response
             
     with open(file=formalisations_file_path, mode='w') as formalisations_file:
-        json.dump(obj=formalisations,fp=formalisations_file)
+        json.dump(obj=formalisations, fp=formalisations_file)
         
         

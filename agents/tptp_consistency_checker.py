@@ -52,7 +52,6 @@ def check_texts_internal_consistency(
         external_theory=str())
     
         
-
 def check_texts_external_consistency(
         tptp_theories_file_path: str,
         external_theory_file_path: str,

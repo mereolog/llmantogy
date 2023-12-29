@@ -11,3 +11,4 @@ class Identity(Predicate):
     
     def __repr__(self):
         return '='
+    

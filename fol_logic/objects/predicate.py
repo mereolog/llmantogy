@@ -13,13 +13,13 @@ class Predicate(Symbol):
             self.tptp = None
         Predicate.registry[origin_value] = self
         
-            
     def to_tptp(self):
         if self.tptp:
             return self.tptp
         tptp_predicate = self.value.lower()
         tptp_predicate = Symbol.escape_tptp_chars(text=tptp_predicate)
         return tptp_predicate
+    
     
 ARITHMETIC_LESS_PREDICATE = Predicate(arity=2, tptp='$less', origin_value='<')
 ARITHMETIC_GREATER_PREDICATE = Predicate(arity=2, tptp='$greater', origin_value='>')

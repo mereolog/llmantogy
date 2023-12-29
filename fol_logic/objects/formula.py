@@ -29,7 +29,7 @@ class Formula(object):
                         ])
                 tptp_axiom = tptp_axiom_quantification_closure + '(' + tptp_axiom + ')'
             
-            tptp_formula = self.tptp_type + '(' + ' axiom' + str(uuid.uuid4()).replace('-','') + ',' + 'axiom' + ',' + tptp_axiom + ')' + '.'
+            tptp_formula = self.tptp_type + '(' + ' axiom' + str(uuid.uuid4()).replace('-', '') + ',' + 'axiom' + ',' + tptp_axiom + ')' + '.'
             return tptp_formula
         else:
             return tptp_axiom
@@ -51,9 +51,9 @@ class Formula(object):
             for argument in self.arguments:
                 argument.replace_variable(old_variable=old_variable, new_variable=new_variable)
     
-    
     def copy(self):
         return copy.deepcopy(self)
     
     def set_tptp_type(self):
         pass
+    

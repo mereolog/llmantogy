@@ -7,3 +7,4 @@ class ProverResult(Enum):
     UNDECIDED = 3
     THEOREM = 4
     COUNTERSATISFIABLE = 5
+    

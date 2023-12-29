@@ -45,3 +45,4 @@ class QuantifyingFormula(Formula):
     
     def set_tptp_type(self):
         self.tptp_type = self.quantified_formula.tptp_type
+        

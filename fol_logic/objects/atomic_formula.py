@@ -47,12 +47,11 @@ class AtomicFormula(Formula):
         if inplace:
             self.arguments = replaced_arguments
         else:
-            return AtomicFormula(predicate=self.predicate, arguments=replaced_arguments,is_self_standing=self.is_self_standing)
+            return AtomicFormula(predicate=self.predicate, arguments=replaced_arguments, is_self_standing=self.is_self_standing)
         
     def get_tptp_axiom(self) -> str:
-        tptp_axiom = self.predicate.to_tptp() +'(' +','.join([argument.to_tptp() for argument in self.arguments]) + ')'
+        tptp_axiom = self.predicate.to_tptp() + '(' + ','.join([argument.to_tptp() for argument in self.arguments]) + ')'
         return tptp_axiom
-    
     
     def replace_variable(self, old_variable: Variable, new_variable: Variable):
         arguments_copy = self.arguments.copy()

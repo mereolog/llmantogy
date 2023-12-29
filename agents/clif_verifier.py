@@ -4,6 +4,7 @@ from agents.helpers.macleod_parser import parse_clif
 
 TEMP_FILE_PATH = 'midputs/temp.clif'
 
+
 def verify_formalised_texts(
         formalised_texts_file_path: str,
         faulty_formalised_texts_file_path: str,
@@ -21,7 +22,7 @@ def verify_formalised_texts(
             verified_formalisations[sample] = clif_text
             tptp_theory = '\n'.join([clif_sentence.to_tptp() for clif_sentence in clif_sentences])
             verified_formalisation_tptp[sample] = tptp_theory
-        except TypeError as error:
+        except TypeError:
             if sample in faulty_formalisations:
                 faulty_formalisaitons_for_sample = faulty_formalisations[sample]
             else:
@@ -35,3 +36,4 @@ def verify_formalised_texts(
         json.dump(obj=verified_formalisations, fp=verified_json_file, indent=4)
     with open(file=tptp_text_file_path, mode='w') as verified_tptp_json_file:
         json.dump(obj=verified_formalisation_tptp, fp=verified_tptp_json_file, indent=4)
+        

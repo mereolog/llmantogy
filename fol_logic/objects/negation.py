@@ -13,3 +13,4 @@ class Negation(PropositionalFormula):
     
     def __repr__(self):
         return 'not' + Negation.bracketise(self.arguments[0].__repr__())
+    

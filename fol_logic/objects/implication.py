@@ -13,3 +13,4 @@ class Implication(PropositionalFormula):
         
     def __repr__(self):
         return Implication.bracketise('if ' + self.arguments[0].__repr__() + ' then ' + self.arguments[1].__repr__())
+    

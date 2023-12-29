@@ -1,7 +1,6 @@
 import json
 
 import spacy
-import numpy
 
 from agents.text_formaliser import TEXTS_REGULAR_EXPRESSIONS
 

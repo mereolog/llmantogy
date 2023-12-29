@@ -2,7 +2,7 @@ import re
 
 
 class Symbol:
-    def __init__(self, origin_value:object, origin_type=str):
+    def __init__(self, origin_value: object, origin_type=str):
         self.origin = origin_value
         self.origin_type = origin_type
         self.__set_symbol_letter()
@@ -70,3 +70,4 @@ class Symbol:
     
     def __hash__(self):
         return (str(self.value)+str(self.origin_type)).__hash__()
+    
