@@ -1,14 +1,1 @@
-{
-    "The rose is red in the morning, but as the day wears on, the color fades. By evening, the rose is a dull, lifeless brown.": [
-        "(if (Rose x) (PhysicalObject x))\n(if (ColorQuality x) (PhysicalQuality x))\n(if (cc x) (PhysicalRegion x))\n(Rose r)\n(ColorQuality cq)\n(Time m)\n(Time e)\n(Time t0)\n(Time t1)\n(present r m)\n(present r e)\n(quality cq r)\n(quale rc0 cq t0)\n(part t0 m)\n(quale rc1 cq t1)\n(part t1 e)\n(part rc0 rr)\n(part rc1 br)\n(part rr ColorSpace)\n(part br ColorSpace)\n(< m e)\n(exists (p) (and (SelfConnected p) (part p cc) (part rc0 p) (part rc1 p) (forall (l) (if (part l p) (exists (t) (and (part t (+ m e))(quality l cq))))))"
-    ],
-    "The cherry blossom is pink in the spring. As the seasons change, so too does its hue. In the fall, the cherry blossom is a muted brown.": [
-        "(if (CherryBlossom x) (PhysicalObject x))\n(if (ColorQuality x) (PhysicalQuality x))\n(if (cc x) (PhysicalRegion x))\n(CherryBlossom cb)\n(ColorQuality cq)\n(Time sp)\n(Time f)\n(Time t0)\n(Time t1)\n(present cb sp)\n(present cb f)\n(quality cq cb)\n(quale cb0 cq t0)\n(part t0 sp)\n(quale cb1 cq t1)\n(part t1 f)\n(part cb0 pr)\n(part cb1 mb)\n(part pr ColorSpace)\n(part mb ColorSpace)\n(< sp f)\n(exists (p) (and (SelfConnected p) (part p cc) (part cb0 p) (part cb1 p) (forall (l) (if (part l p) (exists (t) (and (part t (+ sp f))(quality l cq))))))"
-    ],
-    "We must be willing to let go of the life we planned so as to have the life that is waiting for us.": [
-        "I'm sorry, but the given puzzle is a philosophical statement rather than a scenario with specific entities and relationships that can be translated into CLIF language. CLIF language is used for formalizing logical statements, typically involving specific entities, their properties, and relationships. The given statement is more of a general life advice and does not contain specific logical relationships that can be formalized in CLIF."
-    ],
-    "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.": [
-        "This philosophical statement is not a puzzle and does not contain specific entities or events that can be translated into CLIF language. It is a general statement about life and change, and does not provide specific scenarios or relationships that can be formalized in a logical language."
-    ]
-}
+{}

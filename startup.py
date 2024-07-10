@@ -9,8 +9,8 @@ find_similar_texts(
     texts_file_path='midputs/texts.json')
 
 calculate_similarity(
-    texts_file_path='../midputs/texts.json',
-    similarity_file_path='../outputs/texts_similarities.json')
+    texts_file_path='midputs/texts.json',
+    similarity_file_path='outputs/texts_similarities.json')
 
 formalise_texts(
     english_texts_file_path='midputs/texts.json',
