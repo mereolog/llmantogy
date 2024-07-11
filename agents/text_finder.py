@@ -1,8 +1,7 @@
 import json
 
 import backoff
-import openai
-from openai import RateLimitError, APIError
+from openai import RateLimitError, APIError, OpenAI
 from requests import Timeout
 from tqdm import tqdm
 
@@ -14,7 +13,8 @@ from inputs.examples import SAMPLE_FORMALISATIONS
 @backoff.on_exception(backoff.expo, APIError, on_backoff=backoff_handler, max_tries=8)
 @backoff.on_exception(backoff.expo, Timeout, on_backoff=backoff_handler, max_tries=8)
 def __get_response(query: str) -> str:
-    response = openai.ChatCompletion.create(
+    client = OpenAI()
+    response = client.chat.completions.create(
         model=MODEL,
         messages=[
             {"role": "user", "content": query},
@@ -22,7 +22,7 @@ def __get_response(query: str) -> str:
         temperature=0.0,
     )
     
-    return response['choices'][0]['message']['content']
+    return response.choices[0].message.content
 
 
 def find_similar_texts(texts_file_path: str):
